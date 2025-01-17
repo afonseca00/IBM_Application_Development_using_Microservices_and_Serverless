@@ -11,9 +11,6 @@ After completing this lab, I am able to:
 - Use SwaggerUI to access REST API endpoints of an application.
 - Generate server code with Swagger documentation.
 
-## Estimated Time Needed
-
-45 minutes
 
 ## Pre-requisites
 
