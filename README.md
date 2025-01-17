@@ -33,7 +33,7 @@ After completing this lab:
 2. Create a simple "Hello World" REST API.
 3. Access the REST API endpoints through the browser.
 
-For detailed steps, refer to the [Lab1 README](labs/lab1/README.md).
+For detailed steps, refer to the [Lab1 README](lab1/README.md).
 
 ## Lab2: CRUD Operations with Python & Flask
 
