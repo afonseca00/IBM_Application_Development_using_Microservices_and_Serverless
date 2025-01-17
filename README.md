@@ -13,7 +13,7 @@ This repository contains the labs and the final project for the Microservices an
 4. [Lab4: Querying with GraphQL](#Lab4)
 5. [Lab5: Deploying Your First Docker Image on Code Engine](#Lab5)
 6. [Lab6: Deploy, Update, and Scale Microservices using Serverless](#Lab6)
-7. [Final Project: Microservices Based Serverless Application](##final-project-microservices-based-serverless-application)
+7. [Final Project: Microservices Based Serverless Application](#final-project-microservices-based-serverless-application)
 
 ## Lab1: Creating a HELLO WORLD REST API with Python & Flask
 
