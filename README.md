@@ -1,5 +1,4 @@
-#IBM_Application_Development_using_Microservices_and_Serverless
-
+# Microservices and Cloud Application Development
 
 ## Description
 
@@ -7,12 +6,12 @@ This repository contains the labs and the final project for the Microservices an
 
 ## Table of Contents
 
-1. [Lab1: Creating a HELLO WORLD REST API with Python & Flask](#Lab1)
-2. [Lab2: CRUD Operations with Python & Flask](#Lab2)
-3. [Lab3: Creating Swagger Documentation for REST API](#Lab3)
-4. [Lab4: Querying with GraphQL](#Lab4)
-5. [Lab5: Deploying Your First Docker Image on Code Engine](#Lab5)
-6. [Lab6: Deploy, Update, and Scale Microservices using Serverless](#Lab6)
+1. [Lab1: Creating a HELLO WORLD REST API with Python & Flask](#lab1-creating-a-hello-world-rest-api-with-python--flask)
+2. [Lab2: CRUD Operations with Python & Flask](#lab2-crud-operations-with-python--flask)
+3. [Lab3: Creating Swagger Documentation for REST API](#lab3-creating-swagger-documentation-for-rest-api)
+4. [Lab4: Querying with GraphQL](#lab4-querying-with-graphql)
+5. [Lab5: Deploying Your First Docker Image on Code Engine](#lab5-deploying-your-first-docker-image-on-code-engine)
+6. [Lab6: Deploy, Update, and Scale Microservices using Serverless](#lab6-deploy-update-and-scale-microservices-using-serverless)
 7. [Final Project: Microservices Based Serverless Application](#final-project-microservices-based-serverless-application)
 
 ## Lab1: Creating a HELLO WORLD REST API with Python & Flask
@@ -33,7 +32,7 @@ After completing this lab:
 2. Create a simple "Hello World" REST API.
 3. Access the REST API endpoints through the browser.
 
-For detailed steps, refer to the [Lab1 README](Lab1/README.md).
+For detailed steps, refer to the [Lab1 README](Labs/lab1/README.md).
 
 ## Lab2: CRUD Operations with Python & Flask
 
@@ -54,7 +53,7 @@ After completing this lab, I am able to:
 3. Run and test the server with cURL.
 4. Test the REST API endpoints with POSTMAN.
 
-For detailed steps, refer to the [Lab2 README](labs/lab2/README.md).
+For detailed steps, refer to the [Lab2 README](Labs/lab2/README.md).
 
 ## Lab3: Creating Swagger Documentation for REST API
 
@@ -77,7 +76,7 @@ After completing this lab, I am able to:
 4. Build and run the server.
 5. Update the API response.
 
-For detailed steps, refer to the [Lab3 README](labs/lab3/README.md).
+For detailed steps, refer to the [Lab3 README](Labs/lab3/README.md).
 
 ## Lab4: Querying with GraphQL
 
@@ -97,7 +96,7 @@ After completing this lab, I am able to:
 2. Run a GraphQL service.
 3. Run GraphQL queries on Postman.
 
-For detailed steps, refer to the [Lab4 README](labs/lab4/README.md).
+For detailed steps, refer to the [Lab4 README](Lab4/README.md).
 
 ## Lab5: Deploying Your First Docker Image on Code Engine
 
@@ -119,7 +118,7 @@ After completing this lab, I am able to:
 3. Access the application.
 4. Practice exercise.
 
-For detailed steps, refer to the [Lab5 README](labs/lab5/README.md).
+For detailed steps, refer to the [Lab5 README](Lab5/README.md).
 
 ## Lab6: Deploy, Update, and Scale Microservices using Serverless
 
@@ -141,7 +140,7 @@ After completing this lab, I am able to:
 2. Deploy the frontend microservice.
 3. Verify the application.
 
-For detailed steps, refer to the [Lab6 README](labs/lab6/README.md).
+For detailed steps, refer to the [Lab6 README](Lab6/README.md).
 
 ## Final Project: Microservices Based Serverless Application
 
@@ -162,7 +161,7 @@ After completing this project, I am able to:
 2. Deploy the frontend microservice.
 3. Verify the application.
 
-For detailed steps, refer to the [Final Project README](final_project/README.md).
+For detailed steps, refer to the [Final Project README](Final_Project/README.md).
 
 ## Conclusion
 
